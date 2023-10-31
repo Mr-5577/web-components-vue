@@ -3,7 +3,7 @@ const user = {
   namespaced: true,
   state: {
     userInfo: {
-      userName: "admin",
+      userName: 'admin',
       password: 123456,
     },
   },

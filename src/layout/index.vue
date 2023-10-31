@@ -18,11 +18,11 @@
 </template>
 
 <script>
-import Header from "@/layout/components/layout-header";
-import Sidebar from "@/layout/components/layout-sidebar";
-import Main from "@/layout/components/layout-main";
+import Header from '@/layout/components/layout-header';
+import Sidebar from '@/layout/components/layout-sidebar';
+import Main from '@/layout/components/layout-main';
 export default {
-  name: "Layout",
+  name: 'Layout',
   components: { Header, Sidebar, Main },
   data() {
     return {};

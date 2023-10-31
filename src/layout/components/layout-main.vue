@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: "AppMain",
+  name: 'AppMain',
   components: {},
   data() {
     return {};

@@ -1,4 +1,4 @@
-import Vue from "vue";
+import Vue from 'vue';
 import {
   // Pagination,
   // Dialog,
@@ -77,7 +77,7 @@ import {
   // MessageBox,
   // Message,
   // Notification,
-} from "element-ui";
+} from 'element-ui';
 
 // Vue.use(Pagination);
 // Vue.use(Dialog);

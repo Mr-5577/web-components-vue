@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: "LayoutSidebar",
+  name: 'LayoutSidebar',
   components: {},
   data() {
     return {};
@@ -17,7 +17,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.sidebar{
+.sidebar {
   width: 100%;
   height: 100%;
   background-color: cornflowerblue;

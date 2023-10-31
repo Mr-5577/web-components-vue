@@ -1,16 +1,14 @@
 <template>
   <div class="header">
     <transition name="header">
-      <div>
-        这里是头部
-      </div>
+      <div>这里是头部</div>
     </transition>
   </div>
 </template>
 
 <script>
 export default {
-  name: "LayoutHeader",
+  name: 'LayoutHeader',
   components: {},
   data() {
     return {};
